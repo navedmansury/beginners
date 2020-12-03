@@ -8,6 +8,12 @@
 
 ### **Basics**
 * *Operators* -  [Learn from here](https://www.youtube.com/playlist?list=PLCvBE7NDS5Bn_lppJzf04NUX44o3GMLjO)
+    * Meal price [Solve here](https://www.hackerrank.com/challenges/30-operators/problem)
+    * Chef and Operators [Solve here](https://www.codechef.com/problems/CHOPRT)
+    * Going to office [Solve here](https://www.hackerearth.com/practice/basic-programming/operators/basics-of-operators/practice-problems/algorithm/going-to-office-e2ef3feb/)
+    * Birthday party [Solve here](https://www.hackerearth.com/practice/basic-programming/operators/basics-of-operators/practice-problems/algorithm/birthday-party-12/)
+    * Let us understand Computers [Solve here](https://www.hackerearth.com/practice/basic-programming/operators/basics-of-operators/practice-problems/algorithm/let-us-understand-computer-78476e7a/)
+    * Operators cheat sheet - [Here](https://meet.google.com/linkredirect?authuser=0&dest=https%3A%2F%2Fwww.hackerearth.com%2Fpractice%2Fbasic-programming%2Foperators%2Fbasics-of-operators%2Ftutorial%2F)
 * *Decision Making in C / C++ (if..else)* -  [Learn from here](https://www.geeksforgeeks.org/decision-making-c-c-else-nested-else/?ref=lbp)
 * *Loops in C and C++* -  [Learn from here](https://www.geeksforgeeks.org/loops-in-c-and-cpp/?ref=lbp)
 * *Basic Input / Output in C++* -  [Learn from here](https://www.geeksforgeeks.org/basic-input-output-c/?ref=lbp)
