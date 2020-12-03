@@ -35,7 +35,7 @@
 * *Matrix Transpose* -  [Practice here](https://www.hackerearth.com/practice/data-structures/arrays/multi-dimensional/practice-problems/algorithm/transpose/) | [Solution here](https://www.hackerearth.com/submission/45360805/)
 * *Multiply Matrices* -  [Practice here](https://practice.geeksforgeeks.org/problems/multiply-matrices/1) | [Solution here](https://www.geeksforgeeks.org/c-program-multiply-two-matrices/)
 
-### **Strings** -  [Learn from here](https://www.youtube.com/watch?v=IlqiTmcK1Eg&list=PLBlnK6fEyqRhwQbYrTDZYJaB4z1YgsAPW)
+### **Strings** -  [Learn from here](https://www.youtube.com/playlist?list=PLBlnK6fEyqRhwQbYrTDZYJaB4z1YgsAPW)
 * *Functions in string.h Header File* -  [Learn from here](https://www.programiz.com/c-programming/library-function/string.h)
 #### String Practice Problems :
 * *Super Reduced String* - [Practice here](https://www.hackerrank.com/challenges/reduced-string/problem)
