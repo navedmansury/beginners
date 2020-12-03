@@ -40,6 +40,7 @@
 * Two Characters - [Practice here](https://www.hackerrank.com/challenges/two-characters/problem)
 * Caesar Cipher - [Practice here](https://www.hackerrank.com/challenges/caesar-cipher-1/problem)
 * Pangrams - [Practice here](https://www.hackerrank.com/challenges/pangrams/problem)
+* Palindrome String -  [Practice here](https://practice.geeksforgeeks.org/problems/palindrome-string0817/1/?category[]=Strings&page=1&query=category[]Stringspage1)
 
 ### **Pointers** [Learn from here](https://www.youtube.com/playlist?list=PL2_aWCzGMAwLZp6LMUKI3cc7pgGsasm2_)
 
