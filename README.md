@@ -7,11 +7,10 @@
 ## Contents
 
 ### **Basics**
+* *Operators* -  [Learn from here](https://www.youtube.com/playlist?list=PLCvBE7NDS5Bn_lppJzf04NUX44o3GMLjO)
 * *Decision Making in C / C++ (if..else)* -  [Learn from here](https://www.geeksforgeeks.org/decision-making-c-c-else-nested-else/?ref=lbp)
 * *Loops in C and C++* -  [Learn from here](https://www.geeksforgeeks.org/loops-in-c-and-cpp/?ref=lbp)
 * *Basic Input / Output in C++* -  [Learn from here](https://www.geeksforgeeks.org/basic-input-output-c/?ref=lbp)
-
-### **Operators** [Learn from here](https://www.youtube.com/playlist?list=PLCvBE7NDS5Bn_lppJzf04NUX44o3GMLjO)
 
 ### **Functions**
 * *Functions in C/C++* -  [Learn from here](https://www.geeksforgeeks.org/functions-in-c/?ref=lbp)
