@@ -36,8 +36,6 @@
    -  Alphabet Rangoli - [Practice here](https://www.hackerrank.com/challenges/alphabet-rangoli/problem)
 
 ### **Functions** [Learn from here](https://www.youtube.com/playlist?list=PLCvBE7NDS5BmpDbEe5DrqbmnW-EHqutSM)
-* *EVEN ODD* -  [Practice here](https://www.hackerearth.com/problem/algorithm/even-odd-3-f509373c/submissions/) | [Solution here](https://www.hackerearth.com/submission/44823658/)
-* *Pattern Printing Problems and Solutions* -  [Practice here](https://www.programiz.com/c-programming/examples/pyramid-pattern) [Try it yourself then see the given code.]
 * *Program to count digits in an integer* -  [Solution here](https://www.geeksforgeeks.org/program-count-digits-integer-3-different-methods/) [Try it yourself then see the given code.]
 * *Program to print the given digit in words* -  [Solution here](https://www.geeksforgeeks.org/program-to-print-the-given-digit-in-words/) [Try it yourself then see the given code.]
 
