@@ -34,13 +34,13 @@
 * *Functions in string.h Header File* -  [Learn from here](https://www.programiz.com/c-programming/library-function/string.h)
 
 #### String Practice Problems :
-* Super Reduced String - [Practice here](https://www.hackerrank.com/challenges/reduced-string/problem)
-* Camel Case - [Practice here](https://www.hackerrank.com/challenges/camelcase/problem)
-* Strong Password - [Practice here](https://www.hackerrank.com/challenges/strong-password/problem)
-* Two Characters - [Practice here](https://www.hackerrank.com/challenges/two-characters/problem)
-* Caesar Cipher - [Practice here](https://www.hackerrank.com/challenges/caesar-cipher-1/problem)
-* Pangrams - [Practice here](https://www.hackerrank.com/challenges/pangrams/problem)
-* Palindrome String -  [Practice here](https://practice.geeksforgeeks.org/problems/palindrome-string0817/1/?category[]=Strings&page=1&query=category[]Stringspage1)
+* *Super Reduced String* - [Practice here](https://www.hackerrank.com/challenges/reduced-string/problem)
+* *Camel Case* - [Practice here](https://www.hackerrank.com/challenges/camelcase/problem)
+* *Strong Password* - [Practice here](https://www.hackerrank.com/challenges/strong-password/problem)
+* *Two Characters* - [Practice here](https://www.hackerrank.com/challenges/two-characters/problem)
+* *Caesar Cipher* - [Practice here](https://www.hackerrank.com/challenges/caesar-cipher-1/problem)
+* *Pangrams* - [Practice here](https://www.hackerrank.com/challenges/pangrams/problem)
+* *Palindrome String* -  [Practice here](https://practice.geeksforgeeks.org/problems/palindrome-string0817/1/?category[]=Strings&page=1&query=category[]Stringspage1)
 
 ### **Pointers** [Learn from here](https://www.youtube.com/playlist?list=PL2_aWCzGMAwLZp6LMUKI3cc7pgGsasm2_)
 
@@ -50,6 +50,5 @@
 * *Sum of Array Elements* -  [Practice here](https://practice.geeksforgeeks.org/problems/sum-of-array-elements2502/1/?category[]=Arrays&page=1&query=category[]Arrayspage1) | [Solution here](https://www.geeksforgeeks.org/program-find-sum-elements-given-array/)
 * *Largest Element in Array* -  [Practice here](https://practice.geeksforgeeks.org/problems/largest-element-in-array/0) | [Solution here](https://www.geeksforgeeks.org/c-program-find-largest-element-array/)
 * *Palindrome Number* -  [Practice here](https://practice.geeksforgeeks.org/problems/palindrome0746/1) | [Solution here](https://www.geeksforgeeks.org/check-if-a-number-is-palindrome/)
-* *Palindrome String* -  [Practice here](https://practice.geeksforgeeks.org/problems/palindrome-string0817/1/?category[]=Strings&page=1&query=category[]Stringspage1) | [Solution here](https://www.geeksforgeeks.org/c-program-check-given-string-palindrome/)
 * *Matrix Transpose* -  [Practice here](https://www.hackerearth.com/practice/data-structures/arrays/multi-dimensional/practice-problems/algorithm/transpose/) | [Solution here](https://www.hackerearth.com/submission/45360805/)
 * *Multiply Matrices* -  [Practice here](https://practice.geeksforgeeks.org/problems/multiply-matrices/1) | [Solution here](https://www.geeksforgeeks.org/c-program-multiply-two-matrices/)
