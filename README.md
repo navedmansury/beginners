@@ -28,11 +28,16 @@
 
 
 ### **Array** [Learn from here](https://www.youtube.com/playlist?list=PLCvBE7NDS5Bk4kd70XIdfDKGViwx6c9Ij)
+#### Array Practice Problems : 
+* *Sum of Array Elements* -  [Practice here](https://practice.geeksforgeeks.org/problems/sum-of-array-elements2502/1/?category[]=Arrays&page=1&query=category[]Arrayspage1) | [Solution here](https://www.geeksforgeeks.org/program-find-sum-elements-given-array/)
+* *Largest Element in Array* -  [Practice here](https://practice.geeksforgeeks.org/problems/largest-element-in-array/0) | [Solution here](https://www.geeksforgeeks.org/c-program-find-largest-element-array/)
+* *Palindrome Number* -  [Practice here](https://practice.geeksforgeeks.org/problems/palindrome0746/1) | [Solution here](https://www.geeksforgeeks.org/check-if-a-number-is-palindrome/)
+* *Matrix Transpose* -  [Practice here](https://www.hackerearth.com/practice/data-structures/arrays/multi-dimensional/practice-problems/algorithm/transpose/) | [Solution here](https://www.hackerearth.com/submission/45360805/)
+* *Multiply Matrices* -  [Practice here](https://practice.geeksforgeeks.org/problems/multiply-matrices/1) | [Solution here](https://www.geeksforgeeks.org/c-program-multiply-two-matrices/)
 
 ### **Strings**
 * *Strings in C* -  [Learn from here](https://www.geeksforgeeks.org/strings-in-c-2/)
 * *Functions in string.h Header File* -  [Learn from here](https://www.programiz.com/c-programming/library-function/string.h)
-
 #### String Practice Problems :
 * *Super Reduced String* - [Practice here](https://www.hackerrank.com/challenges/reduced-string/problem)
 * *Camel Case* - [Practice here](https://www.hackerrank.com/challenges/camelcase/problem)
@@ -43,12 +48,3 @@
 * *Palindrome String* -  [Practice here](https://practice.geeksforgeeks.org/problems/palindrome-string0817/1/?category[]=Strings&page=1&query=category[]Stringspage1)
 
 ### **Pointers** [Learn from here](https://www.youtube.com/playlist?list=PL2_aWCzGMAwLZp6LMUKI3cc7pgGsasm2_)
-
-
-
-### **Practice Problems**
-* *Sum of Array Elements* -  [Practice here](https://practice.geeksforgeeks.org/problems/sum-of-array-elements2502/1/?category[]=Arrays&page=1&query=category[]Arrayspage1) | [Solution here](https://www.geeksforgeeks.org/program-find-sum-elements-given-array/)
-* *Largest Element in Array* -  [Practice here](https://practice.geeksforgeeks.org/problems/largest-element-in-array/0) | [Solution here](https://www.geeksforgeeks.org/c-program-find-largest-element-array/)
-* *Palindrome Number* -  [Practice here](https://practice.geeksforgeeks.org/problems/palindrome0746/1) | [Solution here](https://www.geeksforgeeks.org/check-if-a-number-is-palindrome/)
-* *Matrix Transpose* -  [Practice here](https://www.hackerearth.com/practice/data-structures/arrays/multi-dimensional/practice-problems/algorithm/transpose/) | [Solution here](https://www.hackerearth.com/submission/45360805/)
-* *Multiply Matrices* -  [Practice here](https://practice.geeksforgeeks.org/problems/multiply-matrices/1) | [Solution here](https://www.geeksforgeeks.org/c-program-multiply-two-matrices/)
