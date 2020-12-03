@@ -13,7 +13,7 @@
 * *Loops in C and C++* -  [Learn from here](https://www.geeksforgeeks.org/loops-in-c-and-cpp/?ref=lbp)
 * *Basic Input / Output in C++* -  [Learn from here](https://www.geeksforgeeks.org/basic-input-output-c/?ref=lbp)
 
-### **Operators**
+### **Operators** [Learn from here] (https://www.youtube.com/playlist?list=PLCvBE7NDS5Bn_lppJzf04NUX44o3GMLjO)
 * *Operators in C / C++* -  [Learn from here](https://www.geeksforgeeks.org/operators-c-c/?ref=lbp)
 * *Unary operators in C/C++* -  [Learn from here](https://www.geeksforgeeks.org/unary-operators-cc/?ref=lbp)
 * *Pre-increment (or pre-decrement) in C++* -  [Learn from here](https://www.geeksforgeeks.org/g-fact-40/?ref=lbp)
