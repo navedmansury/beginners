@@ -24,11 +24,7 @@
 * *Program to print the given digit in words* -  [Solution here](https://www.geeksforgeeks.org/program-to-print-the-given-digit-in-words/) [Try it yourself then see the given code.]
 
 
-### **Array**
-* *Arrays in C/C++* -  [Learn from here](https://www.geeksforgeeks.org/arrays-in-c-cpp/?ref=lbp)
-* *How arrays are passed to functions in C/C++* -  [Learn from here](https://www.geeksforgeeks.org/how-arrays-are-passed-to-functions-in-cc/)
-* *Multidimensional Arrays in C / C++* -  [Learn from here](https://www.geeksforgeeks.org/multidimensional-arrays-c-cpp/?ref=lbp)
-* *How to pass a 2D array as a parameter in C?* -  [Learn from here](https://www.geeksforgeeks.org/pass-2d-array-parameter-c/?ref=lbp)
+### **Array** [Learn from here](https://www.youtube.com/playlist?list=PLCvBE7NDS5Bk4kd70XIdfDKGViwx6c9Ij)
 
 ### **Strings**
 * *Strings in C* -  [Learn from here](https://www.geeksforgeeks.org/strings-in-c-2/)
