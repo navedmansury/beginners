@@ -18,10 +18,7 @@
 * *Loops in C and C++* -  [Learn from here](https://www.geeksforgeeks.org/loops-in-c-and-cpp/?ref=lbp)
 * *Basic Input / Output in C++* -  [Learn from here](https://www.geeksforgeeks.org/basic-input-output-c/?ref=lbp)
 
-### **Functions**
-* *Functions in C/C++* -  [Learn from here](https://www.geeksforgeeks.org/functions-in-c/?ref=lbp)
-* *Default Arguments in C++* -  [Learn from here](https://www.geeksforgeeks.org/default-arguments-c/?ref=lbp)
-* *Return from void functions in C++* -  [Learn from here](https://www.geeksforgeeks.org/return-void-functions-c/?ref=lbp)
+### **Functions** [Learn from here](https://www.youtube.com/playlist?list=PLCvBE7NDS5BmpDbEe5DrqbmnW-EHqutSM)
 
 ### **Practice Problems**
 * *EVEN ODD* -  [Practice here](https://www.hackerearth.com/problem/algorithm/even-odd-3-f509373c/submissions/) | [Solution here](https://www.hackerearth.com/submission/44823658/)
