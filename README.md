@@ -47,3 +47,4 @@
 * *Palindrome String* -  [Practice here](https://practice.geeksforgeeks.org/problems/palindrome-string0817/1/?category[]=Strings&page=1&query=category[]Stringspage1)
 
 ### **Pointers** [Learn from here](https://www.youtube.com/playlist?list=PL2_aWCzGMAwLZp6LMUKI3cc7pgGsasm2_)
+### **Structures** [Learn from here](https://www.youtube.com/playlist?list=PLCvBE7NDS5BkXE39NZwFHxXN6gJclMRe3)
