@@ -33,6 +33,14 @@
 * *Strings in C* -  [Learn from here](https://www.geeksforgeeks.org/strings-in-c-2/)
 * *Functions in string.h Header File* -  [Learn from here](https://www.programiz.com/c-programming/library-function/string.h)
 
+#### String Practice Problems :
+
+* Super Reduced String - [Practice here](https://www.hackerrank.com/challenges/reduced-string/problem)
+* Camel Case - [Practice here](https://www.hackerrank.com/challenges/camelcase/problem)
+* Strong Password - [Practice here](https://www.hackerrank.com/challenges/strong-password/problem)
+* Two Characters - [Practice here](https://www.hackerrank.com/challenges/two-characters/problem)
+* Caesar Cipher - [Practice here](https://www.hackerrank.com/challenges
+
 ### **Pointers** [Learn from here](https://www.youtube.com/playlist?list=PL2_aWCzGMAwLZp6LMUKI3cc7pgGsasm2_)
 
 
