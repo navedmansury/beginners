@@ -7,7 +7,7 @@
 ## Contents
 
 ### **Basics** [Learn from here](https://www.youtube.com/playlist?list=PLCQIQIjUOJeZWOq4lR2qp3VGsuuf1yXkb)
-	* Jadoo hates numbers - [Solve here](https://www.hackerearth.com/practice/python/getting-started/input-and-output/practice-problems/golf/jadoo-hates-numbers/)
+* Jadoo hates numbers - [Solve here](https://www.hackerearth.com/practice/python/getting-started/input-and-output/practice-problems/golf/jadoo-hates-numbers/)
 * **Operators** -  [Learn from here](https://www.youtube.com/playlist?list=PLCvBE7NDS5Bn_lppJzf04NUX44o3GMLjO)
     * Meal price - [Solve here](https://www.hackerrank.com/challenges/30-operators/problem)
     * Chef and Operators - [Solve here](https://www.codechef.com/problems/CHOPRT)
